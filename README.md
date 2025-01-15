@@ -29,11 +29,11 @@ You can access all the festival raw csv data in the following [Google Drive Link
 ## Usage Instructions
 
 1. **Setting Up the Database:**
-   - Import the initial database schema and data as required by your setup.
+   - Import the initial database schema as indicated by the HANDOUT_1.
    - Execute `music_sql_improvements.sql` to apply the structural changes to the database.
   
 2. **PL/SQL Script Execution:**
-   - Execute each PL/SQL script (`reqNN_music_festival.sql`) to implement the respective functionalities like triggers, procedures, or events.
+   - Execute each PL/SQL script (`reqNN_music_festival.sql`) to implement the respective functionalities like triggers, procedures or events.
 
 3. **Running Queries:**
    - Load `music_festival_db_queries.sql` into your SQL environment and execute each query to retrieve the specified information.
